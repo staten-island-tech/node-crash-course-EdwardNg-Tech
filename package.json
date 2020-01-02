@@ -1,0 +1,26 @@
+{
+  "name": "crash-course-edwardng-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/node-crash-course-EdwardNg-Tech.git"
+  },
+  "author": "Edward Ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/node-crash-course-EdwardNg-Tech/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/node-crash-course-EdwardNg-Tech#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
